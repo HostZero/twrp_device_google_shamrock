@@ -1,3 +1,5 @@
+Work In Progress...
+
 Copyright 2016 - The CyanogenMod Project
 
 Device configuration for Android One Third Generation
