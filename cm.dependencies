@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_google_shamrock-common",
+    "target_path": "device/google/shamrock-common"
+  }
+]
