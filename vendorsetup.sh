@@ -1,2 +1,0 @@
-add_lunch_combo cm_shamrock-userdebug
-add_lunch_combo cm_shamrock-eng

@@ -1,2 +1,0 @@
-type clockd_socket, file_type;
-type sysfs_fingerprint, fs_type, sysfs_type;
