@@ -15,7 +15,7 @@
 #
 
 $(call inherit-product-if-exists, vendor/google/shamrock/shamrock-vendor.mk)
-$(call inherit-product, device/shamrock/google/shamrock-common/shamrock.mk)
+$(call inherit-product, device/google/shamrock-common/shamrock.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
